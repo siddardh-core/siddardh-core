@@ -34,3 +34,12 @@ improvements that help the open-source community.
 ## 📌 Current Focus
 Building my GSoC 2027 preparation roadmap and finding
 beginner-friendly open-source issues.
+
+## Open Source Contributions
+
+### 1. Babelscribe — Subtitle Line Wrapping
+
+- **Contribution:** Added subtitle line wrapping support.
+- **Status:** Merged
+- **Skills:** Python, Git, GitHub, debugging, testing, merge conflict resolution.
+- **Pull Request:** [#31 — Add subtitle line wrapping support](https://github.com/phonology024/babelscribe/pull/31)
