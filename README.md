@@ -43,3 +43,18 @@ beginner-friendly open-source issues.
 - **Status:** Merged
 - **Skills:** Python, Git, GitHub, debugging, testing, merge conflict resolution.
 - **Pull Request:** [#31 — Add subtitle line wrapping support](https://github.com/phonology024/babelscribe/pull/31)
+
+### 2. ModelDiff — JUnit XML Comparison Report
+
+- **Contribution:** Implemented JUnit XML comparison report support, including reporting for changed outputs and test results.
+- **Status:** Merged
+- **Skills:** Python, pytest, JUnit XML, CLI development, documentation, code review, Git.
+- **Pull Request:** [#22 — JUnit XML comparison report](https://github.com/OpenWave-India/modeldiff/pull/22)
+- **Recognition:** Reviewed and approved by the maintainer; planned for ModelDiff v0.2.0.
+
+### 3. SciProof — MAX_MANIFESTS Limit Error Test
+
+- **Contribution:** Added test coverage for the maximum manifest limit error in ledger export.
+- **Status:** Merged
+- **Skills:** Python, pytest, test automation, debugging, Git, GitHub Actions.
+- **Pull Request:** [#192 — Test MAX_MANIFESTS limit error](https://github.com/hayagrivai-labs/sciproof/pull/192)
