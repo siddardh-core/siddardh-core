@@ -58,3 +58,17 @@ beginner-friendly open-source issues.
 - **Status:** Merged
 - **Skills:** Python, pytest, test automation, debugging, Git, GitHub Actions.
 - **Pull Request:** [#192 — Test MAX_MANIFESTS limit error](https://github.com/hayagrivai-labs/sciproof/pull/192)
+
+###  4. Microsoft TokenEconomizer
+**Fix Windows Copilot Trusted Folder Path Matching**
+
+Contributed to [Microsoft TokenEconomizer](https://github.com/microsoft/TokenEconomizer), an open-source project focused on optimizing AI-assisted development workflows.
+
+- Addressed [Issue #104](https://github.com/microsoft/TokenEconomizer/issues/104) related to incorrect Copilot trusted-folder verification.
+- Submitted [Pull Request #105](https://github.com/microsoft/TokenEconomizer/pull/105) to improve Windows path matching.
+- Implemented `os.path.normcase()` normalization for resolved repository paths and configured trusted-folder paths.
+- Added a Windows-specific regression test covering mixed-case paths.
+- Preserved directory-boundary validation to prevent incorrect trusted-folder matches.
+- Worked with Python, pytest, Git, GitHub, and CI workflows.
+
+**Technologies:** Python · Pytest · Git · GitHub · Windows
