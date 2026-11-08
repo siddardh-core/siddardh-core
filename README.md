@@ -72,3 +72,11 @@ Contributed to [Microsoft TokenEconomizer](https://github.com/microsoft/TokenEco
 - Worked with Python, pytest, Git, GitHub, and CI workflows.
 
 **Technologies:** Python · Pytest · Git · GitHub · Windows
+
+### 5. Babelscribe — JUnit XML Output for Compare
+
+- **Contribution:** Implemented JUnit XML output support for comparison results, including classification of still-failing cases as failures.
+- **Status:** Completed and released in v0.2.0.
+- **Skills:** Python, JUnit XML, pytest, CI/CD, debugging, Git, GitHub.
+- **Recognition:** Maintainer confirmed completion and release.
+- **Issue:** [#9 — JUnit XML output for compare](https://github.com/phonology024/babelscribe/issues/9)
