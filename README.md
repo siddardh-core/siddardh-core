@@ -1,7 +1,7 @@
 
 # Hi, I'm Siddardha 👋
 
-### AI & ML Student | Aspiring GSoC 2027 Contributor
+###AI & ML Undergraduate @ JNTUK | Open Source Contributor | Python Developer | Web Development | GSoC 2027 Aspirant
 
 I'm learning Python, exploring AI/ML, and preparing to contribute to real-world open-source projects.
 
